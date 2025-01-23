@@ -1,3 +1,4 @@
+"use strict";
 /*20. Solicitar al usuario un nombre, una edad y que responda si está activo o no
 - Mostrar en la consola el tipo de dato ingresado por cada entrada
 - Mostrar en la interfaz de usuario el nombre ingresado entre comillas sencillas

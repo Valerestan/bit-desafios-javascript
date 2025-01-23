@@ -1,3 +1,4 @@
+"use strict";
 /*18. Solicitar primero el nombre, luego solicitar el apellido y por
 último solicitar la edad al usuario, mostrar en la interfaz de usuario el mensaje:
 Ej entrada: Pepita Pérez 16

@@ -1,3 +1,4 @@
+"use strict";
 //17. Solicitar nombre y edad al usuario y mostrar el mensaje: "Hola, ... tienes ... años."
 
 const datos = prompt("¿Cual es tu nombre?");
